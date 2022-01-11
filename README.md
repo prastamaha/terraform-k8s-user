@@ -2,7 +2,7 @@
 
 create kubernetes user using terraform
 
-this repository using terraform module such as hashicorp/kubernetes and hashicorp/tls
+this repository using terraform providers such as hashicorp/kubernetes and hashicorp/tls
 
 ```
 terraform {
