@@ -1,0 +1,5 @@
+kubeconfig = "~/.kube/config"
+context = "kind-kind"
+user_name = "example"
+user_namespace = "example-namespace"
+user_role = "admin"
